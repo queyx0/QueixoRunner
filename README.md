@@ -16,7 +16,7 @@ Estudando por conta própia ainda, decide começar a aprender orietação a obje
 - `` Pular ``
 - `` Recomeçar ``
 
-## Curiosidades
+## 🔀 Curiosidades
 <ul>
 <li> Arte e animação personalizadas </li>
 <li> Criado durante as lives que acontecem na Twitch </li>
